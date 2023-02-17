@@ -1,0 +1,105 @@
+/* header start  */
+.first-section{
+  background: rgb(218, 212, 212);
+}
+.navbar{
+    padding-left: 53px;
+    display: flex;
+    align-items: center;
+   
+}
+.navbar a{
+    padding-left: 30px;
+    
+    text-decoration: none;
+
+}
+.menu{
+    padding-left: 750px;
+   
+    
+}
+/* header end  */
+/* brand text start  */
+.brand-text{
+    
+    font: 400;
+    padding: 100px  500px ;
+    text-align: center;
+    
+}
+.button{
+    border-radius: 5px;
+    border: none;
+    color: rgb(109, 19, 19);
+    background-color: #FF900E;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+    
+    
+
+ 
+}
+/* brand text end  */
+.banner-image{
+    max-width: 100%;
+    height: auto;
+   
+   
+}
+/* second part start */
+.second-part{
+    display: flex;
+    margin: 5px 100px px 120px;
+}
+.images{
+    margin: 20px;
+}
+.quick-list-features{
+    padding-top: 250px;
+    
+}
+/* third part  */
+.third-part{
+    font-weight: 400;
+    display: flex;
+    margin: 80px;
+    padding: 10px;
+}
+/* fourth part start  */
+.fourth-part{
+    padding-left: 100px;
+}
+/* fifth part start  */
+.fifth-part{
+    border: #FF900E;
+    padding-left: 500px;
+    display: flex;
+    
+}
+/* six part start  */
+.six-part{
+    /* padding-left: 500px; */
+    text-align: center;
+
+}
+.six-part-heading{
+    text-align: center;
+}
+/* seventh part start  */
+.seventh-part{
+    display: flex;
+    align-content: center;
+
+}
+/* footer part */
+.footer{
+    white-space: 10px;
+    margin: 1px 200px;
+    background-color: #FFF4E7;
+    text-align: center;
+    border: 1px solid rgb(242, 219, 219);
+    border-radius: 8px;
+
+}
